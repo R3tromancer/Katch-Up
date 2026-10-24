@@ -22,15 +22,8 @@ The project explores how physics and player interaction can be combined to creat
 - **Particle Systems:** Experimentation with particle effects to add visual feedback.
 - **Gameplay Design:** A simple, goal-oriented mechanic built around guiding a projectile to its destination.
 
-## Technology Stack
 
-- **Game Engine:** Unity
-- **Physics:** Unity Physics
-- **Visual Effects:** Unity Particle System
-- **Lighting:** Unity lighting tools
-
-
-See the project page for screenshots and additional visuals:
+See the project page:
 
 [**CatchUp — Project Page**](https://rezamaghsudycv.wordpress.com/catchup/)
 
@@ -53,6 +46,3 @@ An early-stage Unity game development project.
 - Add a playable build and gameplay video.
 - Document the controls and implementation details.
 
-## License
-
-No license is currently specified. Add a `LICENSE` file if you intend to distribute the source code for reuse.
